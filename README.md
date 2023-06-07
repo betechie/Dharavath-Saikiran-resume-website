@@ -4,21 +4,10 @@ Dharavath Saikiran
 <html>
 <head>
   <title>DHARAVATH Saikiran - Resume</title>
-  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
     <h1>DHARAVATH SAIKIRAN</h1>
-    <nav>
-      <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
   </header>
   <main>
     <section id="about">
@@ -84,7 +73,30 @@ Dharavath Saikiran
           <p>Working on this project as part of Intel Unnati summer internship</p>
         </li>
       </ul>
+    </section>  
+    <section id="Certifications">
+      <h2>Certifications</h2>
+      <ul>
+        <li>IBM Data Analyst (Professional certification)</li>
+        <li>IBM Data Science (Professional Certification)</li>
+        <li>IBM Machine Learning (Professional certification)</li>
+        <li>Excel Essentials for Data Analytics(certificate): Issued by Coursera</li>
+        <li>Data Visualization & Dashboard Essentials(certificate): Issued by Coursera | Authorized by IBM </li>
+        <li>Tableau training (certificate): Issued by Simplilearn</li>
+        <li>Building Dashboards in Power BI(certificate) : Issued by Coursera</li>
+        <li>Microsoft 365 Fundamentals : Issued by Coursera</li>
+        <li>Data Science with Python (certificate) : Issued by Simplilearn</li>
+        <li>Introduction to Artificial Intelligence (certificate): Issued by Coursera</li>
+        <li>Getting Started with R</li>
+        <li>Introduction to Cloud Computing : Issued by Simplilearn</li> 
+      </ul>
     </section>   
+    <section id="programming languages">
+      <h2>Programming languages known</h2>
+      <ul>
+      <li>Python, C Programming, Java, R Programming</li>
+      </ul>
+    </section>
     <section id="contact">
       <h2>Contact</h2>
       <ul>
