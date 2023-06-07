@@ -4,52 +4,7 @@ Dharavath Saikiran
 <html>
 <head>
   <title>DHARAVATH Saikiran - Resume</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    
-    header {
-      background-color: #333;
-      color: #fff;
-      padding: 20px;
-    }
-    
-    h1 {
-      margin: 0;
-    }
-    
-    nav ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    
-    nav ul li {
-      display: inline;
-      margin-right: 10px;
-    }
-    
-    nav ul li a {
-      color: #fff;
-      text-decoration: none;
-    }
-    
-    main {
-      padding: 20px;
-    }
-    
-    section {
-      margin-bottom: 20px;
-    }
-    
-    h2 {
-      margin: 0;
-    }
-    
-    ul li {
-      margin-bottom: 5px;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
